@@ -14,7 +14,7 @@ A simple command-line interface (CLI) application to track and manage tasks. Thi
   - Mark tasks as "in-progress" or "done".
   - List tasks by status (`todo`, `in-progress`, `done`).
 - **Technologies**: Python, JSON for data storage.
-- **Project URL**: [Task Tracker CLI]((https://github.com/NikhitaB15/Backend_RoadMap_tasks/tree/main/task1))
+- **Project URL**: [Task Tracker CLI](https://roadmap.sh/projects/task-tracker)
 
 ---
 
