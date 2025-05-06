@@ -25,7 +25,7 @@ A command-line tool to fetch and display a GitHub user's recent activity using t
   - Clean, human-readable output in terminal
   - Error handling for invalid usernames
 - **Technologies**: Python, GitHub API
-- **Project URL**: [GitHub Activity CLI](#) ([add your project URL here](https://roadmap.sh/projects/github-user-activity))
+- **Project URL**: [GitHub Activity CLI](#) ([Github User Activity](https://roadmap.sh/projects/github-user-activity))
 
 ---
 
